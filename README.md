@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Rescript and React**
 
-- ⚡ Fun fact **I love chocolates**
+- ⚡ Fun fact **I love cookies🍪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
