@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DG</h1>
-<h3 align="center">This space is built with focus, fire, and intent.</h3>
+<h3 align="center">When the path is unclear, let resolve be the flame that leads.</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c500e56-9df3-4d27-8efd-7937c3ac66a7" alt="Rengoku Flame" width="500" />
