@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm DG</h1>
-<h3 align="center">A full stack dev 😄</h3>
+<h3 align="center">This space is built with focus, fire, and intent.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cookieg13&label=Profile%20views&color=0e75b6&style=flat" alt="cookieg13" /> </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c500e56-9df3-4d27-8efd-7937c3ac66a7" alt="Rengoku Flame" width="500" />
+</p>
+
+
+
+<h2 align="center"><em>"Set Your Heart Ablaze"</em> - <strong>Kyojuro Rengoku</strong></h2>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cookieg13" alt="cookieg13" /></a> </p>
+
+- 💁‍♀️ I’m a full stack dev 
 
 - 🔭 I’m currently working on [HyperSwitch](https://github.com/juspay/hyperswitch)
 
